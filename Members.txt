@@ -10,6 +10,6 @@ MEMBER 4 Nicholas Chan
 
 YunJun
 
-Coding noob
+Hi! I'm new to coding.
 
-Materials Engineering
+Preferred branch of engineering: materials engineering

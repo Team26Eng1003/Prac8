@@ -7,3 +7,5 @@ MEMBER 2 YunJun Kim
 MEMBER 3 Jingwen Ding
  
 MEMBER 4 Nicholas Chan
+
+Member 0

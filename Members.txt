@@ -9,6 +9,7 @@ MEMBER 3 Jingwen Ding
 MEMBER 4 Nicholas Chan
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 YunJun
 
 Hi! I'm new to coding.
@@ -20,3 +21,12 @@ Hi, I am 18 years old and go to Monash University.
 In this project, I plan to support the team with coding tasks.
 My preferred branch is Civil or Mechanical Engineering. 
 >>>>>>> Nicholas
+=======
+YOUR NAME: Josh Smith
+ 
+I am Mr Cool
+ 
+Role in project: person
+ 
+Preferred branch of engineering: mechanical
+>>>>>>> josh's-branch

@@ -8,4 +8,7 @@ MEMBER 3 Jingwen Ding
  
 MEMBER 4 Nicholas Chan
 
-Can you guys see my changes?
+Nicholas Chan
+Hi, I am 18 years old and go to Monash University.
+In this project, I plan to support the team with coding tasks.
+My preferred branch is Civil or Mechanical Engineering. 
